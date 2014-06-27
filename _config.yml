@@ -1,0 +1,36 @@
+#
+# Blog Settings
+#
+author: Yuan
+description: Be yourself
+url: http://macyo.com
+title: 心有灵
+subtitle: Be yourself!
+gravatar_url: https://s.gravatar.com/avatar/1a8b7271f08436f4e5ef60d9b14dca54
+subscribe_rss: 
+
+# Github repositories
+github_user:
+github_repo_url: https://github.com/SeanYuan/macyo.com
+
+# Twitter
+twitter_user:
+twitter_tweet_button: true
+
+# Disqus Comments
+disqus_short_name: xyuan
+disqus_show_comment_count: true
+
+# Google Analytics
+google_analytics_tracking_id: 
+
+
+#
+# Jekyll Settings
+#
+markdown: redcarpet
+pygments: true
+permalink: /archive/:year/:month/:day/:title/
+paginate: 20
+paginate_path: "page/:num"
+category_dir: categories
